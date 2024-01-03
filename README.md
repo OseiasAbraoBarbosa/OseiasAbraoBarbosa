@@ -9,7 +9,8 @@ Eu sou o Oséias Abrão Barbosa, sou um Programador Front End, atualmente estou 
 - <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github-logo" />
 - <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma-logo" />
 <br>
-### Minha redes socias:
+
+### Minhas redes sociais:
 
 <p>
   <a href "https://www.linkedin.com/in/oseias-abrao-barbosa">
