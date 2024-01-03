@@ -9,10 +9,12 @@ Eu sou o Oséias Abrão Barbosa, sou um Programador Front End, atualmente estou 
 - <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github-logo" />
 - <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma-logo" />
 <br>
-Minha redes socias:
-<br>
-<br>
-  <a href "https://www.linkedin.com/in/oseias-abrao-barbosa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" /></a>
+### Minha redes socias:
+
+<p>
+  <a href "https://www.linkedin.com/in/oseias-abrao-barbosa">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" />
+  </a>
 <br>
 
 [![Oseias stats](https://github-readme-stats.vercel.app/api?username=OseiasAbraoBarbosa)](https://github.com/anuraghazra/github-readme-stats)
