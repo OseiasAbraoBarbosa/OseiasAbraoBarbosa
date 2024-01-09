@@ -1,4 +1,4 @@
-### Olá eu sou o Oséias Abrão Barbosa, sou um Programador Front End, atualmente estou estudando e criando projetos com:
+### Olá eu sou o Oséias Abrão Barbosa, sou um Programador Front End, atualmente estou estudando e criando projetos.
 <br>
 <br>
 <div style="display: inline_block"><br>
