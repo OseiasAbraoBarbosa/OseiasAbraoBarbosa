@@ -19,7 +19,8 @@
 ### Minhas redes sociais:
 
 <div>
-  <a href = "oseiasabrao2011@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <p align="left"><a href="mailto:oseiasabrao2011@live.com">✉ oseiasabrao2011@live.com</a></p>
+  
   <a href="https://www.linkedin.com/in/oseias-abrao-barbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
