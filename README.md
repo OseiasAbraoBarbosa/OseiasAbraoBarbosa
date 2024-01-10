@@ -16,7 +16,7 @@
 
 
 
-### Minhas redes sociais:
+### Conecte-se comigo:
 
 <div>
   <p align="left"><a href="mailto:oseiasabrao2011@live.com">✉ oseiasabrao2011@live.com</a></p>
