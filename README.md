@@ -26,3 +26,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OseiasAbraoBarbosa)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![ GIF de cobra ] ( https://github.com/OseiasAbraoBarbosa/OseiasAbraoBarbosa/blob/output/github-contribution-grid-snake.svg )
